@@ -1,0 +1,19 @@
+{
+	"geode": "4.7.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "saqult.betterlist",
+	"name": "betterlist",
+	"version": "v1.0.0",
+	"developer": "saQult",
+	"description": "adds better list (global list) integration",
+	"resources": {
+		"spritesheets": {
+			"Menu": [ "resources/GL_Menu/*.png" ]
+		}
+	}
+}
