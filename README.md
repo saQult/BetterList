@@ -27,3 +27,10 @@
 - show victors in game
 
 ---
+
+# Credits
+
+[GDDP integration](https://github.com/Minemaker0430/GDDPIntegration)
+[Integrated DemonList](https://github.com/hiimjasmine00/IntegratedDemonlist/)
+
+This is my first time modding this game so a lot of logic has been taken from this mods >.<
